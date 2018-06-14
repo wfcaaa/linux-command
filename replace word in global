@@ -1,0 +1,6 @@
+in command line mode : ":s/word1(the word which will be replaced)/word2(the word you want to use to replace word1)/g"
+
+the c ommand : ":s/word1/word2/g"
+
+wo can use ":" to go into command line mode, and "s" is mean to replace ,so we can understand the command "s/word1/word2/" 
+the meaning of "g" is the universe of replace is global.
