@@ -1,5 +1,6 @@
-in command line mode : ":s/word1(the word which will be replaced)/word2(the word you want to use to replace word1)/g"
+in command line mode : ":%s/word1(the word which will be replaced)/word2(the word you want to use to replace word1)/g"
 
-the c ommand : ":s/word1/word2/g"
+the c ommand : ":%s/word1/word2/g"
 
-wo can use ":" to go into command line mode, and "s" is mean to replace ,so we can understand the command "s/word1/word2/" 
+wo can use ":" to go into command line mode and type %s/old/new/g ,after the above operation ,all the "old" in the text 
+will be replaced with "new"
