@@ -1,0 +1,14 @@
+tar a command to compress/extract file
+
+#commpress
+tar -cvf name.tar(the name of tar package) /etc (the path and file whihc will be commpress)  # this command will use all the file in /etc to create a tar package named name.tar
+#extract
+tar -xvf name.tar  
+
+tar -zcvf name.tar.gz /etc #create a tar.gz package
+
+tar -zxvf name.tar.gz
+
+tar -jcvf name.tar.bz2 /etc
+
+tar -jxcf name.tar.bz2
