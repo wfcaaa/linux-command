@@ -1,0 +1,6 @@
+方法1：
+  命令行输入： ifconfig(linux)/ipconfig(window)
+方法2：
+  hostname -i (可以输入hostname -h 查看用法)
+方法3：
+  ping atslxws37（the hostname of workstation you want to check ip address）
