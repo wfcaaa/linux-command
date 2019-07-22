@@ -1,0 +1,5 @@
+apt-get install appName （ubuntu）
+yum install appName （retHat）
+
+example:
+sudo yum install vim //rethat 环境下安装vim
