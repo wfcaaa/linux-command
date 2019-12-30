@@ -1,0 +1,5 @@
+go-rwx removes read, write, execute permissions from the group and other users. 
+It will not change permissions for the user that owns the file.
+
+example:
+chmod go-rwx /home/newuse(path)
